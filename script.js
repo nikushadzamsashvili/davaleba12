@@ -6,7 +6,7 @@ const email = "nikadzamsashvili@gmail.com";
 
 const phoneNumber = "+995 599 585 588";
 
-let age = 28;
+let age = 19;
 
 const isAdult = age >= 18;
 
